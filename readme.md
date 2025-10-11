@@ -50,7 +50,7 @@ Here’s a look at Peek in action. The interface is designed to be clean, intuit
 
 As Peek is distributed as a pre-compiled binary (`.app` file), installation is simple and straightforward.
 
-1. **Download the Latest Release**: Navigate to the [GitHub Releases](https://github.com/your-username/peek/releases) page and download the `Peek.app.zip` file.
+1. **Download the Latest Release**: Navigate to the [GitHub Releases](https://github.com/alessgorgo/Peek/releases) page and download the `PeekApp.zip` file.
 2. **Unzip the File**: Double-click the downloaded `.zip` file to extract the application.
 3. **Move to Applications**: Drag `Peek.app` to your `/Applications` folder.
 4. **Run the App**: Double-click the app to launch it.
